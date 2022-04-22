@@ -74,7 +74,7 @@ class PostController extends Controller
         if ($post->cover) {
             $post->cover = url("storage/" . $post->cover);
         } else {
-            $post->cover = url("img/fallback.jpg");
+            $post->cover = url("img/libri.jpg");
         }
     }
 
