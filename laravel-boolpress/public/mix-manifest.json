@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/js/front.js": "/js/front.js",
+    "/js/functionsJS/authPasswordConfirmFunctions.js": "/js/functionsJS/authPasswordConfirmFunctions.js",
+    "/js/functionsJS/authPasswordFunctions.js": "/js/functionsJS/authPasswordFunctions.js",
+    "/js/functionsJS/confirmDelete.js": "/js/functionsJS/confirmDelete.js",
+    "/js/functionsJS/getRandomColor.js": "/js/functionsJS/getRandomColor.js"
+}
